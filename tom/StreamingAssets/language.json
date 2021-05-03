@@ -1,0 +1,1143 @@
+{
+  "_meta": {
+    "maxChars": {
+		
+		"main_title": 200,
+		"start": 200,
+		"continue": 200,
+		"press_any": 200,
+		"OK": 200,
+		"NO_OK": 200,
+		"continue_to_next": 200,
+
+		"1.0_title": 200,
+
+		"1.0_intro_0": 200,
+		"1.0_intro_1": 200,
+		"1.0_intro_2": 200,
+		"1.0_intro_3": 200,
+		"1.0_intro_4": 200,
+		"1.0_intro_5": 200,
+		"1.0_intro_6": 200,
+		"1.0_intro_7": 200,
+		"1.0_intro_8": 200,
+		"1.0_intro_9": 200,
+		"1.0_intro_10": 200,
+		"1.0_intro_11": 200,
+		"1.0_intro_12": 200,
+
+		"1.1_tuto_0": 200,
+		"1.1_tuto_1": 200,
+		"1.1_tuto_2": 200,
+		"1.1_tuto_3": 200,
+		"1.1_tuto_4": 200,
+		"1.1_tuto_5": 200,
+		"1.1_tuto_6": 200,
+
+		"1.1_case_2x3": 200,
+		"1.1_case_2x2": 200,
+		"1.1_case_4x3": 200,
+		"1.1_case_5x2": 200,
+		"1.1_case_3x4": 200,
+		"1.1_case_3x3": 200,
+
+		"1.1_error_case_2x3_0": 200,
+		"1.1_error_case_2x3_1": 200,
+		"1.1_error_case_2x3_2": 200,
+
+		"1.1_error_case_2x2_0": 200,
+
+		"1.1_error_case_4x3_0": 200,
+		"1.1_error_case_4x3_1": 200,
+		"1.1_error_case_4x3_2": 200,
+
+		"1.1_error_case_5x2_0": 200,
+		"1.1_error_case_5x2_1": 200,
+		"1.1_error_case_5x2_2": 200,
+
+		"1.1_error_case_4x2_0": 200,
+		"1.1_error_case_4x2_1": 200,
+		"1.1_error_case_4x2_2": 200,
+
+		"1.1_error_case_3x3_0": 200,
+
+		"2.0_title": 200,
+
+		"2.0_intro_0": 200,
+		"2.0_intro_1": 200,
+		"2.0_intro_2": 200,
+		"2.0_intro_3": 200,
+		"2.0_intro_4": 200,
+		"2.0_intro_5": 200,
+		"2.0_intro_6": 200,
+		"2.0_intro_7": 200,
+
+		"select_all": 200,
+		"very_good": 200,
+		"now_select": 200,
+
+		"2.0_2x6_0": 200,
+		"2.0_2x6_1": 200,
+		"2.0_2x6_2": 200,
+
+		"2.0_3x4_0": 200,
+		"2.0_3x4_1": 200,
+		"2.0_3x4_2": 200,
+
+		"2.0_4x4_0": 200,
+		"2.0_4x4_1": 200,
+		"2.0_4x4_2": 200,
+
+		"2.0_5x2_0": 200,
+		"2.0_5x2_1": 200,
+		"2.0_5x2_2": 200,
+
+		"2.0_6x2_0": 200,
+		"2.0_6x2_1": 200,
+		"2.0_6x2_2": 200,
+
+		"2.0_5x9_0": 200,
+		"2.0_5x9_1": 200,
+		"2.0_5x9_2": 200,
+
+		"2.0_pregunta_10x8": 200,
+		"2.0_error_10x8": 200,
+
+		"2.0_pregunta_12x6": 200,
+		"2.0_error_12x6": 200,
+
+		"2.0_pregunta_20x8": 200,
+		"2.0_error_20x8": 200,
+
+		"2.0_pregunta_17x9": 200,
+		"2.0_error_17x9": 200,
+
+		"2.0_pregunta_9x18": 200,
+		"2.0_error_9x18": 200,
+
+		"2.0_pregunta_11x13": 200,
+		"2.0_error_11x13": 200,
+
+		"same_amount_error": 200,
+
+		"3.0_title": 200,
+
+		"3.0_intro_0": 200,
+		"3.0_intro_1": 200,
+		"3.0_intro_2": 200,
+		"3.0_intro_3": 200,
+		"3.0_intro_4": 200,
+		"3.0_intro_5": 200,
+		"3.0_intro_6": 200,
+		"3.0_intro_7": 200,
+		"3.0_intro_8": 200,
+		"3.0_intro_9": 200,
+
+		"3.1_tuto_0": 200,
+		"3.1_tuto_1": 200,
+		"3.1_tuto_2": 200,
+		"3.1_tuto_3": 200,
+		"3.1_tuto_4": 200,
+		"3.1_tuto_5": 200,
+
+		"uneven": 200,
+		"try_again": 200,
+		"evenly": 200,
+
+		"3.0_case_2x2_0": 200,
+		"3.0_case_2x2_1": 200,
+		"3.0_case_2x2_2": 200,
+		"3.0_case_2x2_3": 200,
+		"3.0_case_2x2_4": 200,
+
+		"3.0_case_4x2_0": 200,
+		"3.0_case_4x2_1": 200,
+		"3.0_case_4x2_2": 200,
+		"3.0_case_4x2_3": 200,
+		"3.0_case_4x2_4": 200,
+
+		"3.0_case_4x4_0": 200,
+		"3.0_case_4x4_1": 200,
+		"3.0_case_4x4_2": 200,
+		"3.0_case_4x4_3": 200,
+		"3.0_case_4x4_4": 200,
+
+		"3.0_case_6x3_0": 200,
+		"3.0_case_6x3_1": 200,
+		"3.0_case_6x3_2": 200,
+		"3.0_case_6x3_3": 200,
+		"3.0_case_6x3_4": 200,
+
+		"3.0_case_6x6_0": 200,
+		"3.0_case_6x6_1": 200,
+		"3.0_case_6x6_2": 200,
+		"3.0_case_6x6_3": 200,
+		"3.0_case_6x6_4": 200,
+
+		"3.0_case_8x4_0": 200,
+		"3.0_case_8x4_1": 200,
+		"3.0_case_8x4_2": 200,
+		"3.0_case_8x4_3": 200,
+		"3.0_case_8x4_4": 200,
+
+		"PERFECT": 200,
+
+		"4.0_title": 200,
+
+		"4.0_intro_0": 200,
+		"4.0_intro_1": 200,
+		"4.0_intro_2": 200,
+		"4.0_intro_3": 200
+
+    }
+  },
+  "en": {
+
+		"main_title": "Treasure of Maths",
+		"start": "START",
+		"continue": "CONTINUE",
+		"press_any": "PRESS ANYWHERE TO CONTINUE",
+		"OK": "That's right!",
+		"NO_OK": "That's wrong!",
+		"continue_to_next": "PRESS CONTINUE TO MOVE ON TO NEXT CHALLENGE",
+
+		"1.0_title": "REPEATED ADDITION",
+
+		"1.0_intro_0": "Multiplication helps us find the total number of items quickly",
+		"1.0_intro_1": "This math operation is represented with the symbol X",
+		"1.0_intro_2": "And it means the times that a certain number has to be repeated in an addition operation",
+		"1.0_intro_3": "For example: 2x5 means 2 times 5",
+		"1.0_intro_4": "If you add 2 times 5…",
+		"1.0_intro_5": "2 + 2 + 2 + 2 + 2",
+		"1.0_intro_6": "You are going to get 10, which is the result of the operation 2x5",
+		"1.0_intro_7": "Alternatively, the same operation in the inverted order also has the same result: 5x2 means 5 times 2",
+		"1.0_intro_8": "If you add 5 times 2…",
+		"1.0_intro_9": "5 + 5",
+		"1.0_intro_10": "You are also going to get 10, so the result of the operation 5x2 is the same as 2x5",
+		"1.0_intro_11": "Let’s apply this concept in the next interactive section…",
+		"1.0_intro_12": "Good luck!",
+
+		"1.1_tuto_0": "Welcome!",
+		"1.1_tuto_1": "Solve the multiplications by grabbing the coins",
+		"1.1_tuto_2": "First one, and, without taking the finger off the screen",
+		"1.1_tuto_3": "Move it and combine it with other coins of the same value",
+		"1.1_tuto_4": "Until you have the complete requested expression",
+		"1.1_tuto_5": "Then, move them to the surface and we will make the count!",
+		"1.1_tuto_6": "Good luck!",
+
+		"1.1_case_2x3": "2 times 3 or 3 times 2",
+		"1.1_case_2x2": "2 times 2",
+		"1.1_case_4x3": "4 times 3 or 3 times 4",
+		"1.1_case_5x2": "5 times 2 or 2 times 5",
+		"1.1_case_4x2": "4 times 2 or 2 times 4",
+		"1.1_case_3x3": "3 times 3",
+
+		"1.1_error_case_2x3_0": "Rememeber, to solve 2x3 you have to add 2 times the value of 3",
+		"1.1_error_case_2x3_1": "Or the inverse, which result will be the same: 3x2",
+		"1.1_error_case_2x3_2": "You have to add 3 times the value of 2",
+
+		"1.1_error_case_2x2_0": "Rememeber, to solve 2x2 you have to add 2 times the value of 2",
+
+		"1.1_error_case_4x3_0": "Rememeber, to solve 4x3 you have to add 4 times the value of 3",
+		"1.1_error_case_4x3_1": "Or the inverse, which result will be the same: 3x4",
+		"1.1_error_case_4x3_2": "You have to add 3 times the value of 4",
+
+		"1.1_error_case_5x2_0": "Rememeber, to solve 5x2 you have to add 5 times the value of 2",
+		"1.1_error_case_5x2_1": "Or the inverse, which result will be the same: 2x5",
+		"1.1_error_case_5x2_2": "You have to add 2 times the value of 5",
+
+		"1.1_error_case_4x2_0": "Rememeber, to solve 4x2 you have to add 4 times the value of 2",
+		"1.1_error_case_4x2_1": "Or the inverse, which result will be the same: 2x4",
+		"1.1_error_case_4x2_2": "You have to add 2 times the value of 4",
+
+		"1.1_error_case_3x3_0": "Rememeber, to solve 3x3 you have to add 3 times the value of 3",
+
+		"2.0_title": "UNDERSTANDING GROUPS",
+
+		"2.0_intro_0": "As we already know, the symbol of the multiplication is X",
+		"2.0_intro_1": "Before, we said that 2x5 was the same that adding 2+2+2+2+2, five times",
+		"2.0_intro_2": "For a deeper understanding of this symbol, let’s think of it as “groups of”",
+		"2.0_intro_3": "If we have 5 flowers, and each flower has 3 petals, we could express this situation as 5x3",
+		"2.0_intro_4": "The expression 5x3 means: 5 groups (flowers) with 3 items (petals) in each group (flower)",
+		"2.0_intro_5": "Keep in mind that every group always has the same amount of items that the others: they are “equal sized groups”",
+		"2.0_intro_6": "You can’t associate groups with different amounts of items: “unequal groups” cannot be multiplied!",
+		"2.0_intro_7": "Let’s see more examples of this in the next interactive section…",
+
+		"select_all": "Select every stack of coins from this chest...",
+		"very_good": "Very good!",
+		"now_select": "Now select all the chests with the same amount of stacks...",
+
+		"2.0_2x6_0": "So we have 6 chests",
+		"2.0_2x6_1": "with 2 stacks of coins each",
+		"2.0_2x6_2": "we can express this as 2x6",
+
+		"2.0_3x4_0": "So we have 4 chests",
+		"2.0_3x4_1": "with 3 stacks of coins each",
+		"2.0_3x4_2": "we can express this as 3x4",
+
+		"2.0_4x4_0": "So we have 4 chests",
+		"2.0_4x4_1": "with 4 stacks of coins each",
+		"2.0_4x4_2": "we can express this as 4x4",
+
+		"2.0_5x2_0": "So we have 2 chests",
+		"2.0_5x2_1": "with 5 stacks of coins each",
+		"2.0_5x2_2": "we can express this as 5x2",
+
+		"2.0_6x2_0": "So we have 2 chests",
+		"2.0_6x2_1": "with 6 stacks of coins each",
+		"2.0_6x2_2": "we can express this as 6x2",
+
+		"2.0_5x9_0": "So we have 9 chests",
+		"2.0_5x9_1": "with 5 stacks of coins each",
+		"2.0_5x9_2": "we can express this as 5x9",
+
+		"2.0_pregunta_10x8": "What would the expression look like if we had 10 chests and 8 stacks of coins?",
+		"2.0_error_10x8": "Ups! No, the correct answer is 10x8",
+
+		"2.0_pregunta_12x6": "What would the expression look like if we had 12 chests and 6 stacks of coins?",
+		"2.0_error_12x6": "Ups! No, the correct answer is 12x6",
+
+		"2.0_pregunta_20x8": "What would the expression look like if we had 20 chests and 8 stacks of coins?",
+		"2.0_error_20x8": "Ups! No, the correct answer is 20x8",
+
+		"2.0_pregunta_17x9": "What would the expression look like if we had 17 chests and 9 stacks of coins?",
+		"2.0_error_17x9": "Ups! No, the correct answer is 17x9",
+
+		"2.0_pregunta_9x18": "What would the expression look like if we had 9 chests and 18 stacks of coins?",
+		"2.0_error_9x18": "Ups! No, the correct answer is 9x18",
+
+		"2.0_pregunta_11x13": "What would the expression look like if we had 11 chests and 13 stacks of coins?",
+		"2.0_error_11x13": "Ups! No, the correct answer is 11x13",
+
+		"same_amount_error": "OH NO! Rememeber to select all the chests with THE SAME amount of stacks of coins!",
+
+		"3.0_title": "MORE WAYS TO MULTIPLY",
+
+		"3.0_intro_0": "We already know that the multiplication works the same way for the same two values",
+		"3.0_intro_1": "For example, 2x5 it’s the same as 5x2",
+		"3.0_intro_2": "2 times 5 is 10, and 5 times 2 is also 10",
+		"3.0_intro_3": "But we have also different ways to make groups in order to represent the total in an expression of multiplication",
+		"3.0_intro_4": "For example, we could make a group of 1 time 10, which is 1x10",
+		"3.0_intro_5": "Or the alternative 10 times 1, which is 10x1",
+		"3.0_intro_6": "So, we have: 2x5, 5x2, 10x1, 1x10",
+		"3.0_intro_7": "All of them are different ways of representing the same value: 10",
+		"3.0_intro_8": "Let’s apply this concept in the next interactive section…",
+		"3.0_intro_9": "Good luck!",
+
+		"3.1_tuto_0": "Ahoy, Matey!",
+		"3.1_tuto_1": "Distribute treasure chests evenly between the boats",
+		"3.1_tuto_2": "Drag one at a time",
+		"3.1_tuto_3": "And drop it on a boat",
+		"3.1_tuto_4": "Find a evenly distribution based on the amount of chests and boats",
+		"3.1_tuto_5": "Good luck!",
+
+		"uneven": "The chests are not distributed evenly!",
+		"try_again": "Try again...",
+		"evenly": "Distribute the chests evenly between the boats...",
+
+		"3.0_case_2x2_0": "With 2 boats, you have distributed 2 chests per boat",
+		"3.0_case_2x2_1": "which is the same as expressing it as 2x2",
+		"3.0_case_2x2_2": "and its result is the same as adding 2 times 2",
+		"3.0_case_2x2_3": "",
+		"3.0_case_2x2_4": "so the total amount of chests is 4",
+
+		"3.0_case_3x2_0": "With 3 boats, you have distributed 2 chests per boat",
+		"3.0_case_3x2_1": "which is the same as expressing it as 3x2",
+		"3.0_case_3x2_2": "and its result is the same as adding 3 times 2",
+		"3.0_case_3x2_3": "or adding 2 times 3",
+		"3.0_case_3x2_4": "so the total amount of chests is 6",
+
+		"3.0_case_6x1_0": "With 6 boats, you have distributed 1 chest per boat",
+		"3.0_case_6x1_1": "which is the same as expressing it as 6x1",
+		"3.0_case_6x1_2": "and its result is the same as adding 6 times 1",
+		"3.0_case_6x1_3": "or adding 1 time 6",
+		"3.0_case_6x1_4": "so the total amount of chests is 6",
+
+		"3.0_case_4x2_0": "With 4 boats, you have distributed 2 chests per boat",
+		"3.0_case_4x2_1": "which is the same as expressing it as 4x2",
+		"3.0_case_4x2_2": "and its result is the same as adding 4 times 2",
+		"3.0_case_4x2_3": "or adding 2 times 4",
+		"3.0_case_4x2_4": "so the total amount of chests is 8",
+
+		"3.0_case_2x1_0": "With 2 boats, you have distributed 1 chest per boat",
+		"3.0_case_2x1_1": "which is the same as expressing it as 2x1",
+		"3.0_case_2x1_2": "and its result is the same as adding 2 times 1",
+		"3.0_case_2x1_3": "or adding 1 time 2",
+		"3.0_case_2x1_4": "so the total amount of chests is 2",
+
+		"3.0_case_8x1_0": "With 8 boats, you have distributed 1 chest per boat",
+		"3.0_case_8x1_1": "which is the same as expressing it as 8x1",
+		"3.0_case_8x1_2": "and its result is the same as adding 8 times 1",
+		"3.0_case_8x1_3": "or adding 1 time 8",
+		"3.0_case_8x1_4": "and its result is 8",
+
+		"PERFECT": "PERFECT",
+
+		"4.0_title": "CONGRATULATIONS",
+
+		"4.0_intro_0": "That's it!",
+		"4.0_intro_1": "You’ve learned everything there is to know about the basics of multiplication",
+		"4.0_intro_2": "Now you should start memorizing the multiplication tables in order to remember the results with ease",
+		"4.0_intro_3": "Thanks for playing!"
+	
+  },
+  "es": {
+
+		"main_title": "",
+		"start": "",
+		"continue": "",
+		"press_any": "",
+		"OK": "",
+		"NO_OK": "",
+		"continue_to_next": "",
+
+		"1.0_title": "",
+
+		"1.0_intro_0": "",
+		"1.0_intro_1": "",
+		"1.0_intro_2": "",
+		"1.0_intro_3": "",
+		"1.0_intro_4": "",
+		"1.0_intro_5": "",
+		"1.0_intro_6": "",
+		"1.0_intro_7": "",
+		"1.0_intro_8": "",
+		"1.0_intro_9": "",
+		"1.0_intro_10": "",
+		"1.0_intro_11": "",
+		"1.0_intro_12": "",
+
+		"1.1_tuto_0": "",
+		"1.1_tuto_1": "",
+		"1.1_tuto_2": "",
+		"1.1_tuto_3": "",
+		"1.1_tuto_4": "",
+		"1.1_tuto_5": "",
+		"1.1_tuto_6": "",
+
+		"1.1_case_2x3": "",
+		"1.1_case_2x2": "",
+		"1.1_case_4x3": "",
+		"1.1_case_5x2": "",
+		"1.1_case_3x4": "",
+		"1.1_case_3x3": "",
+
+		"1.1_error_case_2x3_0": "",
+		"1.1_error_case_2x3_1": "",
+		"1.1_error_case_2x3_2": "",
+
+		"1.1_error_case_2x2_0": "",
+
+		"1.1_error_case_4x3_0": "",
+		"1.1_error_case_4x3_1": "",
+		"1.1_error_case_4x3_2": "",
+
+		"1.1_error_case_5x2_0": "",
+		"1.1_error_case_5x2_1": "",
+		"1.1_error_case_5x2_2": "",
+
+		"1.1_error_case_4x2_0": "",
+		"1.1_error_case_4x2_1": "",
+		"1.1_error_case_4x2_2": "",
+
+		"1.1_error_case_3x3_0": "",
+
+		"2.0_title": "",
+
+		"2.0_intro_0": "",
+		"2.0_intro_1": "",
+		"2.0_intro_2": "",
+		"2.0_intro_3": "",
+		"2.0_intro_4": "",
+		"2.0_intro_5": "",
+		"2.0_intro_6": "",
+		"2.0_intro_7": "",
+
+		"select_all": "",
+		"very_good": "",
+		"now_select": "",
+
+		"2.0_2x6_0": "",
+		"2.0_2x6_1": "",
+		"2.0_2x6_2": "",
+
+		"2.0_3x4_0": "",
+		"2.0_3x4_1": "",
+		"2.0_3x4_2": "",
+
+		"2.0_4x4_0": "",
+		"2.0_4x4_1": "",
+		"2.0_4x4_2": "",
+
+		"2.0_5x2_0": "",
+		"2.0_5x2_1": "",
+		"2.0_5x2_2": "",
+
+		"2.0_6x2_0": "",
+		"2.0_6x2_1": "",
+		"2.0_6x2_2": "",
+
+		"2.0_5x9_0": "",
+		"2.0_5x9_1": "",
+		"2.0_5x9_2": "",
+
+		"2.0_pregunta_10x8": "",
+		"2.0_error_10x8": "",
+
+		"2.0_pregunta_12x6": "",
+		"2.0_error_12x6": "",
+
+		"2.0_pregunta_20x8": "",
+		"2.0_error_20x8": "",
+
+		"2.0_pregunta_17x9": "",
+		"2.0_error_17x9": "",
+
+		"2.0_pregunta_9x18": "",
+		"2.0_error_9x18": "",
+
+		"2.0_pregunta_11x13": "",
+		"2.0_error_11x13": "",
+
+		"same_amount_error": "",
+
+		"3.0_title": "",
+
+		"3.0_intro_0": "",
+		"3.0_intro_1": "",
+		"3.0_intro_2": "",
+		"3.0_intro_3": "",
+		"3.0_intro_4": "",
+		"3.0_intro_5": "",
+		"3.0_intro_6": "",
+		"3.0_intro_7": "",
+		"3.0_intro_8": "",
+		"3.0_intro_9": "",
+
+		"3.1_tuto_0": "",
+		"3.1_tuto_1": "",
+		"3.1_tuto_2": "",
+		"3.1_tuto_3": "",
+		"3.1_tuto_4": "",
+		"3.1_tuto_5": "",
+
+		"uneven": "",
+		"try_again": "",
+		"evenly": "",
+
+		"3.0_case_2x2_0": "",
+		"3.0_case_2x2_1": "",
+		"3.0_case_2x2_2": "",
+		"3.0_case_2x2_3": "",
+		"3.0_case_2x2_4": "",
+
+		"3.0_case_4x2_0": "",
+		"3.0_case_4x2_1": "",
+		"3.0_case_4x2_2": "",
+		"3.0_case_4x2_3": "",
+		"3.0_case_4x2_4": "",
+
+		"3.0_case_4x4_0": "",
+		"3.0_case_4x4_1": "",
+		"3.0_case_4x4_2": "",
+		"3.0_case_4x4_3": "",
+		"3.0_case_4x4_4": "",
+
+		"3.0_case_6x3_0": "",
+		"3.0_case_6x3_1": "",
+		"3.0_case_6x3_2": "",
+		"3.0_case_6x3_3": "",
+		"3.0_case_6x3_4": "",
+
+		"3.0_case_6x6_0": "",
+		"3.0_case_6x6_1": "",
+		"3.0_case_6x6_2": "",
+		"3.0_case_6x6_3": "",
+		"3.0_case_6x6_4": "",
+
+		"3.0_case_8x4_0": "",
+		"3.0_case_8x4_1": "",
+		"3.0_case_8x4_2": "",
+		"3.0_case_8x4_3": "",
+		"3.0_case_8x4_4": "",
+
+		"PERFECT": "",
+
+		"4.0_title": "",
+
+		"4.0_intro_0": "",
+		"4.0_intro_1": "",
+		"4.0_intro_2": "",
+		"4.0_intro_3": ""
+
+  },
+  "zh": {
+
+		"main_title": "",
+		"start": "",
+		"continue": "",
+		"press_any": "",
+		"OK": "",
+		"NO_OK": "",
+		"continue_to_next": "",
+
+		"1.0_title": "",
+
+		"1.0_intro_0": "",
+		"1.0_intro_1": "",
+		"1.0_intro_2": "",
+		"1.0_intro_3": "",
+		"1.0_intro_4": "",
+		"1.0_intro_5": "",
+		"1.0_intro_6": "",
+		"1.0_intro_7": "",
+		"1.0_intro_8": "",
+		"1.0_intro_9": "",
+		"1.0_intro_10": "",
+		"1.0_intro_11": "",
+		"1.0_intro_12": "",
+
+		"1.1_tuto_0": "",
+		"1.1_tuto_1": "",
+		"1.1_tuto_2": "",
+		"1.1_tuto_3": "",
+		"1.1_tuto_4": "",
+		"1.1_tuto_5": "",
+		"1.1_tuto_6": "",
+
+		"1.1_case_2x3": "",
+		"1.1_case_2x2": "",
+		"1.1_case_4x3": "",
+		"1.1_case_5x2": "",
+		"1.1_case_3x4": "",
+		"1.1_case_3x3": "",
+
+		"1.1_error_case_2x3_0": "",
+		"1.1_error_case_2x3_1": "",
+		"1.1_error_case_2x3_2": "",
+
+		"1.1_error_case_2x2_0": "",
+
+		"1.1_error_case_4x3_0": "",
+		"1.1_error_case_4x3_1": "",
+		"1.1_error_case_4x3_2": "",
+
+		"1.1_error_case_5x2_0": "",
+		"1.1_error_case_5x2_1": "",
+		"1.1_error_case_5x2_2": "",
+
+		"1.1_error_case_4x2_0": "",
+		"1.1_error_case_4x2_1": "",
+		"1.1_error_case_4x2_2": "",
+
+		"1.1_error_case_3x3_0": "",
+
+		"2.0_title": "",
+
+		"2.0_intro_0": "",
+		"2.0_intro_1": "",
+		"2.0_intro_2": "",
+		"2.0_intro_3": "",
+		"2.0_intro_4": "",
+		"2.0_intro_5": "",
+		"2.0_intro_6": "",
+		"2.0_intro_7": "",
+
+		"select_all": "",
+		"very_good": "",
+		"now_select": "",
+
+		"2.0_2x6_0": "",
+		"2.0_2x6_1": "",
+		"2.0_2x6_2": "",
+
+		"2.0_3x4_0": "",
+		"2.0_3x4_1": "",
+		"2.0_3x4_2": "",
+
+		"2.0_4x4_0": "",
+		"2.0_4x4_1": "",
+		"2.0_4x4_2": "",
+
+		"2.0_5x2_0": "",
+		"2.0_5x2_1": "",
+		"2.0_5x2_2": "",
+
+		"2.0_6x2_0": "",
+		"2.0_6x2_1": "",
+		"2.0_6x2_2": "",
+
+		"2.0_5x9_0": "",
+		"2.0_5x9_1": "",
+		"2.0_5x9_2": "",
+
+		"2.0_pregunta_10x8": "",
+		"2.0_error_10x8": "",
+
+		"2.0_pregunta_12x6": "",
+		"2.0_error_12x6": "",
+
+		"2.0_pregunta_20x8": "",
+		"2.0_error_20x8": "",
+
+		"2.0_pregunta_17x9": "",
+		"2.0_error_17x9": "",
+
+		"2.0_pregunta_9x18": "",
+		"2.0_error_9x18": "",
+
+		"2.0_pregunta_11x13": "",
+		"2.0_error_11x13": "",
+
+		"same_amount_error": "",
+
+		"3.0_title": "",
+
+		"3.0_intro_0": "",
+		"3.0_intro_1": "",
+		"3.0_intro_2": "",
+		"3.0_intro_3": "",
+		"3.0_intro_4": "",
+		"3.0_intro_5": "",
+		"3.0_intro_6": "",
+		"3.0_intro_7": "",
+		"3.0_intro_8": "",
+		"3.0_intro_9": "",
+
+		"3.1_tuto_0": "",
+		"3.1_tuto_1": "",
+		"3.1_tuto_2": "",
+		"3.1_tuto_3": "",
+		"3.1_tuto_4": "",
+		"3.1_tuto_5": "",
+
+		"uneven": "",
+		"try_again": "",
+		"evenly": "",
+
+		"3.0_case_2x2_0": "",
+		"3.0_case_2x2_1": "",
+		"3.0_case_2x2_2": "",
+		"3.0_case_2x2_3": "",
+		"3.0_case_2x2_4": "",
+
+		"3.0_case_4x2_0": "",
+		"3.0_case_4x2_1": "",
+		"3.0_case_4x2_2": "",
+		"3.0_case_4x2_3": "",
+		"3.0_case_4x2_4": "",
+
+		"3.0_case_4x4_0": "",
+		"3.0_case_4x4_1": "",
+		"3.0_case_4x4_2": "",
+		"3.0_case_4x4_3": "",
+		"3.0_case_4x4_4": "",
+
+		"3.0_case_6x3_0": "",
+		"3.0_case_6x3_1": "",
+		"3.0_case_6x3_2": "",
+		"3.0_case_6x3_3": "",
+		"3.0_case_6x3_4": "",
+
+		"3.0_case_6x6_0": "",
+		"3.0_case_6x6_1": "",
+		"3.0_case_6x6_2": "",
+		"3.0_case_6x6_3": "",
+		"3.0_case_6x6_4": "",
+
+		"3.0_case_8x4_0": "",
+		"3.0_case_8x4_1": "",
+		"3.0_case_8x4_2": "",
+		"3.0_case_8x4_3": "",
+		"3.0_case_8x4_4": "",
+
+		"PERFECT": "",
+
+		"4.0_title": "",
+
+		"4.0_intro_0": "",
+		"4.0_intro_1": "",
+		"4.0_intro_2": "",
+		"4.0_intro_3": ""
+
+  },
+  "jp": {
+
+		"main_title": "",
+		"start": "",
+		"continue": "",
+		"press_any": "",
+		"OK": "",
+		"NO_OK": "",
+		"continue_to_next": "",
+
+		"1.0_title": "",
+
+		"1.0_intro_0": "",
+		"1.0_intro_1": "",
+		"1.0_intro_2": "",
+		"1.0_intro_3": "",
+		"1.0_intro_4": "",
+		"1.0_intro_5": "",
+		"1.0_intro_6": "",
+		"1.0_intro_7": "",
+		"1.0_intro_8": "",
+		"1.0_intro_9": "",
+		"1.0_intro_10": "",
+		"1.0_intro_11": "",
+		"1.0_intro_12": "",
+
+		"1.1_tuto_0": "",
+		"1.1_tuto_1": "",
+		"1.1_tuto_2": "",
+		"1.1_tuto_3": "",
+		"1.1_tuto_4": "",
+		"1.1_tuto_5": "",
+		"1.1_tuto_6": "",
+
+		"1.1_case_2x3": "",
+		"1.1_case_2x2": "",
+		"1.1_case_4x3": "",
+		"1.1_case_5x2": "",
+		"1.1_case_3x4": "",
+		"1.1_case_3x3": "",
+
+		"1.1_error_case_2x3_0": "",
+		"1.1_error_case_2x3_1": "",
+		"1.1_error_case_2x3_2": "",
+
+		"1.1_error_case_2x2_0": "",
+
+		"1.1_error_case_4x3_0": "",
+		"1.1_error_case_4x3_1": "",
+		"1.1_error_case_4x3_2": "",
+
+		"1.1_error_case_5x2_0": "",
+		"1.1_error_case_5x2_1": "",
+		"1.1_error_case_5x2_2": "",
+
+		"1.1_error_case_4x2_0": "",
+		"1.1_error_case_4x2_1": "",
+		"1.1_error_case_4x2_2": "",
+
+		"1.1_error_case_3x3_0": "",
+
+		"2.0_title": "",
+
+		"2.0_intro_0": "",
+		"2.0_intro_1": "",
+		"2.0_intro_2": "",
+		"2.0_intro_3": "",
+		"2.0_intro_4": "",
+		"2.0_intro_5": "",
+		"2.0_intro_6": "",
+		"2.0_intro_7": "",
+
+		"select_all": "",
+		"very_good": "",
+		"now_select": "",
+
+		"2.0_2x6_0": "",
+		"2.0_2x6_1": "",
+		"2.0_2x6_2": "",
+
+		"2.0_3x4_0": "",
+		"2.0_3x4_1": "",
+		"2.0_3x4_2": "",
+
+		"2.0_4x4_0": "",
+		"2.0_4x4_1": "",
+		"2.0_4x4_2": "",
+
+		"2.0_5x2_0": "",
+		"2.0_5x2_1": "",
+		"2.0_5x2_2": "",
+
+		"2.0_6x2_0": "",
+		"2.0_6x2_1": "",
+		"2.0_6x2_2": "",
+
+		"2.0_5x9_0": "",
+		"2.0_5x9_1": "",
+		"2.0_5x9_2": "",
+
+		"2.0_pregunta_10x8": "",
+		"2.0_error_10x8": "",
+
+		"2.0_pregunta_12x6": "",
+		"2.0_error_12x6": "",
+
+		"2.0_pregunta_20x8": "",
+		"2.0_error_20x8": "",
+
+		"2.0_pregunta_17x9": "",
+		"2.0_error_17x9": "",
+
+		"2.0_pregunta_9x18": "",
+		"2.0_error_9x18": "",
+
+		"2.0_pregunta_11x13": "",
+		"2.0_error_11x13": "",
+
+		"same_amount_error": "",
+
+		"3.0_title": "",
+
+		"3.0_intro_0": "",
+		"3.0_intro_1": "",
+		"3.0_intro_2": "",
+		"3.0_intro_3": "",
+		"3.0_intro_4": "",
+		"3.0_intro_5": "",
+		"3.0_intro_6": "",
+		"3.0_intro_7": "",
+		"3.0_intro_8": "",
+		"3.0_intro_9": "",
+
+		"3.1_tuto_0": "",
+		"3.1_tuto_1": "",
+		"3.1_tuto_2": "",
+		"3.1_tuto_3": "",
+		"3.1_tuto_4": "",
+		"3.1_tuto_5": "",
+
+		"uneven": "",
+		"try_again": "",
+		"evenly": "",
+
+		"3.0_case_2x2_0": "",
+		"3.0_case_2x2_1": "",
+		"3.0_case_2x2_2": "",
+		"3.0_case_2x2_3": "",
+		"3.0_case_2x2_4": "",
+
+		"3.0_case_4x2_0": "",
+		"3.0_case_4x2_1": "",
+		"3.0_case_4x2_2": "",
+		"3.0_case_4x2_3": "",
+		"3.0_case_4x2_4": "",
+
+		"3.0_case_4x4_0": "",
+		"3.0_case_4x4_1": "",
+		"3.0_case_4x4_2": "",
+		"3.0_case_4x4_3": "",
+		"3.0_case_4x4_4": "",
+
+		"3.0_case_6x3_0": "",
+		"3.0_case_6x3_1": "",
+		"3.0_case_6x3_2": "",
+		"3.0_case_6x3_3": "",
+		"3.0_case_6x3_4": "",
+
+		"3.0_case_6x6_0": "",
+		"3.0_case_6x6_1": "",
+		"3.0_case_6x6_2": "",
+		"3.0_case_6x6_3": "",
+		"3.0_case_6x6_4": "",
+
+		"3.0_case_8x4_0": "",
+		"3.0_case_8x4_1": "",
+		"3.0_case_8x4_2": "",
+		"3.0_case_8x4_3": "",
+		"3.0_case_8x4_4": "",
+
+		"PERFECT": "",
+
+		"4.0_title": "",
+
+		"4.0_intro_0": "",
+		"4.0_intro_1": "",
+		"4.0_intro_2": "",
+		"4.0_intro_3": ""
+
+  },
+  "ru": {
+
+		"main_title": "",
+		"start": "",
+		"continue": "",
+		"press_any": "",
+		"OK": "",
+		"NO_OK": "",
+		"continue_to_next": "",
+
+		"1.0_title": "",
+
+		"1.0_intro_0": "",
+		"1.0_intro_1": "",
+		"1.0_intro_2": "",
+		"1.0_intro_3": "",
+		"1.0_intro_4": "",
+		"1.0_intro_5": "",
+		"1.0_intro_6": "",
+		"1.0_intro_7": "",
+		"1.0_intro_8": "",
+		"1.0_intro_9": "",
+		"1.0_intro_10": "",
+		"1.0_intro_11": "",
+		"1.0_intro_12": "",
+
+		"1.1_tuto_0": "",
+		"1.1_tuto_1": "",
+		"1.1_tuto_2": "",
+		"1.1_tuto_3": "",
+		"1.1_tuto_4": "",
+		"1.1_tuto_5": "",
+		"1.1_tuto_6": "",
+
+		"1.1_case_2x3": "",
+		"1.1_case_2x2": "",
+		"1.1_case_4x3": "",
+		"1.1_case_5x2": "",
+		"1.1_case_3x4": "",
+		"1.1_case_3x3": "",
+
+		"1.1_error_case_2x3_0": "",
+		"1.1_error_case_2x3_1": "",
+		"1.1_error_case_2x3_2": "",
+
+		"1.1_error_case_2x2_0": "",
+
+		"1.1_error_case_4x3_0": "",
+		"1.1_error_case_4x3_1": "",
+		"1.1_error_case_4x3_2": "",
+
+		"1.1_error_case_5x2_0": "",
+		"1.1_error_case_5x2_1": "",
+		"1.1_error_case_5x2_2": "",
+
+		"1.1_error_case_4x2_0": "",
+		"1.1_error_case_4x2_1": "",
+		"1.1_error_case_4x2_2": "",
+
+		"1.1_error_case_3x3_0": "",
+
+		"2.0_title": "",
+
+		"2.0_intro_0": "",
+		"2.0_intro_1": "",
+		"2.0_intro_2": "",
+		"2.0_intro_3": "",
+		"2.0_intro_4": "",
+		"2.0_intro_5": "",
+		"2.0_intro_6": "",
+		"2.0_intro_7": "",
+
+		"select_all": "",
+		"very_good": "",
+		"now_select": "",
+
+		"2.0_2x6_0": "",
+		"2.0_2x6_1": "",
+		"2.0_2x6_2": "",
+
+		"2.0_3x4_0": "",
+		"2.0_3x4_1": "",
+		"2.0_3x4_2": "",
+
+		"2.0_4x4_0": "",
+		"2.0_4x4_1": "",
+		"2.0_4x4_2": "",
+
+		"2.0_5x2_0": "",
+		"2.0_5x2_1": "",
+		"2.0_5x2_2": "",
+
+		"2.0_6x2_0": "",
+		"2.0_6x2_1": "",
+		"2.0_6x2_2": "",
+
+		"2.0_5x9_0": "",
+		"2.0_5x9_1": "",
+		"2.0_5x9_2": "",
+
+		"2.0_pregunta_10x8": "",
+		"2.0_error_10x8": "",
+
+		"2.0_pregunta_12x6": "",
+		"2.0_error_12x6": "",
+
+		"2.0_pregunta_20x8": "",
+		"2.0_error_20x8": "",
+
+		"2.0_pregunta_17x9": "",
+		"2.0_error_17x9": "",
+
+		"2.0_pregunta_9x18": "",
+		"2.0_error_9x18": "",
+
+		"2.0_pregunta_11x13": "",
+		"2.0_error_11x13": "",
+
+		"same_amount_error": "",
+
+		"3.0_title": "",
+
+		"3.0_intro_0": "",
+		"3.0_intro_1": "",
+		"3.0_intro_2": "",
+		"3.0_intro_3": "",
+		"3.0_intro_4": "",
+		"3.0_intro_5": "",
+		"3.0_intro_6": "",
+		"3.0_intro_7": "",
+		"3.0_intro_8": "",
+		"3.0_intro_9": "",
+
+		"3.1_tuto_0": "",
+		"3.1_tuto_1": "",
+		"3.1_tuto_2": "",
+		"3.1_tuto_3": "",
+		"3.1_tuto_4": "",
+		"3.1_tuto_5": "",
+
+		"uneven": "",
+		"try_again": "",
+		"evenly": "",
+
+		"3.0_case_2x2_0": "",
+		"3.0_case_2x2_1": "",
+		"3.0_case_2x2_2": "",
+		"3.0_case_2x2_3": "",
+		"3.0_case_2x2_4": "",
+
+		"3.0_case_4x2_0": "",
+		"3.0_case_4x2_1": "",
+		"3.0_case_4x2_2": "",
+		"3.0_case_4x2_3": "",
+		"3.0_case_4x2_4": "",
+
+		"3.0_case_4x4_0": "",
+		"3.0_case_4x4_1": "",
+		"3.0_case_4x4_2": "",
+		"3.0_case_4x4_3": "",
+		"3.0_case_4x4_4": "",
+
+		"3.0_case_6x3_0": "",
+		"3.0_case_6x3_1": "",
+		"3.0_case_6x3_2": "",
+		"3.0_case_6x3_3": "",
+		"3.0_case_6x3_4": "",
+
+		"3.0_case_6x6_0": "",
+		"3.0_case_6x6_1": "",
+		"3.0_case_6x6_2": "",
+		"3.0_case_6x6_3": "",
+		"3.0_case_6x6_4": "",
+
+		"3.0_case_8x4_0": "",
+		"3.0_case_8x4_1": "",
+		"3.0_case_8x4_2": "",
+		"3.0_case_8x4_3": "",
+		"3.0_case_8x4_4": "",
+
+		"PERFECT": "",
+
+		"4.0_title": "",
+
+		"4.0_intro_0": "",
+		"4.0_intro_1": "",
+		"4.0_intro_2": "",
+		"4.0_intro_3": ""
+  }
+}
